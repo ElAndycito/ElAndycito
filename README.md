@@ -37,6 +37,7 @@ hands-on projects in data analysis, engineering and ML.
 network's site from Weebly to Next.js: paginated news/events with filters, media galleries,
 document repository (2016–2025 reports) and a spam-protected contact form. *Currently in
 development — public launch coming soon.*
+
 🔹 **[MIS / legal-tech tools]** *(in development)* — AI-assisted query tools over a
 legal knowledge base for a Colombian nonprofit (Python, LLMs, Django).
 
