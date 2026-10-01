@@ -45,7 +45,7 @@ legal knowledge base for a Colombian nonprofit (Python, LLMs, Django).
 
 ## Let's connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/andrés-díaz-ab509423a)
+- 💼 www.linkedin.com/in/andrés-díaz-ab509423a
 - 📧 afdiazs.dev@gmail.com
 
 ---
